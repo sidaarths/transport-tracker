@@ -1,0 +1,43 @@
+* {
+    margin: 0% 0% 0% 0%;
+    padding: 0;
+}
+
+#app-view {
+    border-style: ridge;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+#app-menu {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+#app-menu li {
+    display: list-item;
+    list-style: none;
+    flex: 1;
+    background-color: lightblue;
+    padding-top: 15px;
+    padding-bottom: 15px;    
+}
+
+#app-menu li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    padding-left: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+#replace-content {
+    background-color: antiquewhite;
+    height: 500px;
+    width: 100%;
+}

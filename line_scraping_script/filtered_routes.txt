@@ -1,0 +1,36 @@
+11201,TL,033,29th Avenue Station/UBC,,3,,,
+13684,TL,414,Richmond Oval/Brighouse Station,,3,,,
+33538,TL,068,UBC Exchange/Wesbrook Village,,3,,,
+34542,TL,406,Richmond Brighouse Station/Steveston,,3,,,
+34543,TL,408,Brighouse/Ironwood/Riverport,,3,,,
+37807,TL,R5,Hastings Street,,3,,008522,FFFFFF
+37810,TL,R4,41st Ave,,3,,008522,FFFFFF
+6612,TL,002,Macdonald/Downtown,,3,,,
+6613,TL,003,Main/Downtown,,3,,,
+6614,TL,004,Powell/Downtown/UBC,,3,,,
+6617,TL,007,Nanaimo Station/Dunbar,,3,,,
+6619,TL,009,Boundary/Commercial-Broadway/Granville/Alma/UBC,,3,,,
+6620,TL,010,Granville/Downtown,,3,,,
+6621,TL,015,Cambie/Olympic Village Station,,3,,,
+6622,TL,016,29th Avenue Station/Arbutus,,3,,,
+6623,TL,017,Downtown/Oak,,3,,,
+6624,TL,019,Metrotown Station/Stanley Park,,3,,,
+6625,TL,020,Victoria/Downtown,,3,,,
+6626,TL,022,Knight/Downtown,,3,,,
+6627,TL,025,Brentwood Station/UBC,,3,,,
+6630,TL,028,Phibbs Exchange/Joyce Station,,3,,,
+6635,TL,044,UBC/Downtown,,3,,,
+6636,TL,049,Metrotown Station/Dunbar Loop/UBC,,3,,,
+6637,TL,050,Waterfront Station/False Creek South,,3,,,
+6638,TL,084,UBC/VCC-Clark Station,,3,,,
+6641,TL,099,Commercial-Broadway/UBC (B-Line),,3,,d04110,FFFFFF
+6642,TL,100,22nd St Station/Marpole Loop,,3,,,
+6657,TL,144,SFU/Metrotown Station,,3,,,
+6722,TL,401,Richmond-Brighouse Station/One Road,,3,,,
+6723,TL,402,Two Road/Brighouse Station,,3,,,
+6724,TL,403,Bridgeport Station/Three Road,,3,,,
+6770,TL,WCE,West Coast Express,,2,,87189d,FFFFFF
+13686,TL,Canada Line,Canada Line,,1,,007c9f,FFFFFF
+30052,TL,Millenium Line,Millennium Line,,1,,ffcd00,333333
+30053,TL,Expo Line,Expo Line,,1,,0033a0,FFFFFF
+6771,TL,SeaBus,SeaBus,,4,,746661,FFFFFF
